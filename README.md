@@ -15,6 +15,5 @@
 |![work87three](/JAVA/work87three.java)|輸入成績讓電腦你的成績為哪個等級|
 
 [大叫](https://www.youtube.com/watch?v=LLu5Y38K87M)
-<video src="https://www.youtube.com/embed/LLu5Y38K87M" width="560" height="315" controls="controls">
-test
-</video>
+
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
