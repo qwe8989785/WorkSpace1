@@ -15,3 +15,4 @@
 |![work87three](/JAVA/work87three.java)|輸入成績讓電腦你的成績為哪個等級|
 
 [大叫](https://www.youtube.com/watch?v=LLu5Y38K87M)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLu5Y38K87M" frameborder="0" allowfullscreen></iframe>
