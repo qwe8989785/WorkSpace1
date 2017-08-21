@@ -3,7 +3,7 @@
 [高雄第一科大 資管系](http://www.mis.nkfust.edu.tw)
 
 
-![](DV0utBF.jpg)
+![](bird1.gif)
 
 
 
